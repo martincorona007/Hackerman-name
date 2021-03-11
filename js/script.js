@@ -13,7 +13,7 @@ button.addEventListener("click", function(){
 	if(firtName && firtName.value){
 		alert("my imput has a value");
 	}else{
-		alert("my imput hasn't a value");
+		alert("my imput hasn't a value");//
 	}
 })
 /*function pressButton(){
